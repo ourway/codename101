@@ -1,0 +1,11 @@
+cython
+keras
+tensorflow
+numpy
+scipy
+matplotlib
+ipython
+sklearn
+pandas
+falcon
+jupyter
